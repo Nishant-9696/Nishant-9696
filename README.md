@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Nishant Sharma 👋</h1> <div align="center">
 
-<!--
-**Nishant-9696/Nishant-9696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Show Image
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20data%20into%20decisions%2C%20one%20model%20at%20a%20time&descAlignY=55&descSize=18"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nishant-9696&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/> <a href="https://github.com/Nishant-9696?tab=repositories"><img src="https://img.shields.io/github/stars/Nishant-9696?style=for-the-badge&color=00F7FF&labelColor=0d1117" alt="stars"/></a> <img src="https://img.shields.io/badge/Status-Fresher%20%7C%20Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=0d1117" alt="status"/> </p>
+🚀 About Me
+🎓 Pursuing MCA (AI & ML) at Chandigarh University — building on a BCA foundation
+🗄️ Working in a Database Administration (DBA) capacity
+🤖 Completed an AI/ML internship, now sharpening skills for full-time roles
+🧩 Regular at competitive programming — DSA, problem solving, contest grinding
+📍 Based in Kannauj, Uttar Pradesh, India
+⚡ Currently exploring: NLP (spaCy, NLTK), predictive modeling, and automated document generation
+🛠️ Tech Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,git,github,vscode,jupyter,html,css,js&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-spaCy%20%7C%20NLTK-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/> <img src="https://img.shields.io/badge/Databases-DBA-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+📌 Featured Work
+<p align="center"> <a href="https://github.com/Nishant-9696/AI_Resume_Analyzer"> <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-9696&repo=AI_Resume_Analyzer&theme=tokyonight&hide_border=true&border_radius=10"/> </a> <a href="https://github.com/Nishant-9696/Heart-Disease-Prediction-"> <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-9696&repo=Heart-Disease-Prediction-&theme=tokyonight&hide_border=true&border_radius=10"/> </a> </p> <p align="center"> <a href="https://github.com/Nishant-9696/StudentManagementSystemProject"> <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-9696&repo=StudentManagementSystemProject&theme=tokyonight&hide_border=true&border_radius=10"/> </a> <a href="https://github.com/Nishant-9696/Code_Complexity_Analyzer"> <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-9696&repo=Code_Complexity_Analyzer&theme=tokyonight&hide_border=true&border_radius=10"/> </a> </p>
+📊 GitHub Analytics
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nishant-9696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-9696&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-9696&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant-9696&theme=tokyo-night&hide_border=true&area=true"/> </p>
+🏆 Trophy Case
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nishant-9696&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/> </p>
+📫 Let's Connect
+<p align="center"> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer"/> </p>
